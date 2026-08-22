@@ -64,4 +64,27 @@ font-size: 24px;
     border-radius: 8px; 
     width: 200px; 
     height: 200px;
+} 
+
+.quote {
+    display: flex; 
+    flex-direction: column; 
+    align-items: center; 
+    background-color: #E5E7EB; 
+} 
+
+.attribution {
+    align-self: flex-end; 
+} 
+
+.quote p {
+    Font-size: 36px;
+    Color: #1F2937;
+    font-weight: 300;
+    font-style: italic; 
+} 
+
+.attribution p {
+    font-size: 20px; 
+    font-style: normal;
 }
