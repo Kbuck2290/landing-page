@@ -7,8 +7,12 @@ header {
 background-color: #1F2937; 
 display: flex; 
 justify-content: space-between; 
-align-items: center;
+align-items: center; 
 } 
+
+header, section {
+    padding: 40px;
+}
 
 nav a{
     color: #E5E7EB;
@@ -65,6 +69,10 @@ font-size: 24px;
     width: 200px; 
     height: 200px;
 } 
+
+.info-text{
+    width: 200px;
+}
 
 .quote {
     display: flex; 
