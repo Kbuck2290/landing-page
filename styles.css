@@ -73,7 +73,7 @@ font-size: 24px;
     gap: 24px;
 } 
 
-.info-text img {
+.info-text .info-box {
     border: 3px solid #3882F6; 
     border-radius: 8px; 
     width: 200px; 
