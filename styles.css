@@ -127,4 +127,11 @@ font-size: 24px;
 
 .cta button {
     background-color: #3882F6;
+}  
+
+footer {
+    background-color: #1F2937; 
+    color: #F9FAF8; 
+    text-align: center; 
+    padding: 20px;
 }
