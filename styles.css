@@ -4,7 +4,7 @@ body {
 }
 
 header {
-background-color: #1F2937; 
+background-color: #1F2937;  
 
 }   
 
@@ -13,7 +13,7 @@ background-color: #1F2937;
     justify-content: space-between; 
     align-items: center;  
     max-width: 1100px; 
-    margin: 0 auto;
+    margin: 0 auto; 
 
 } 
 
@@ -22,7 +22,7 @@ background-color: #1F2937;
     justify-content: space-between; 
     align-items: center;  
     max-width: 1100px; 
-    margin: 0 auto; 
+    margin: 0 auto;  
 
 }
 
@@ -40,7 +40,7 @@ header, section {
 
 nav a{
     color: #E5E7EB;
-    font-size: 18px; 
+    font-size: 30px; 
     text-decoration: none;
 }  
 
@@ -51,7 +51,7 @@ nav {
 
 header h1 {
 color: #F9FAF8; 
-font-size: 24px;
+font-size: 30px;
 } 
 
 .hero-text {
@@ -75,7 +75,8 @@ font-size: 24px;
 } 
 
 .hero-text button { 
-    background-color: #3882F6;
+    background-color: #3882F6; 
+    font-size: 30px;
 } 
 
 .info {
@@ -150,7 +151,10 @@ font-size: 24px;
 } 
 
 .cta button {
-    background-color: #3882F6; 
+    background-color:#3882F6;
+    font-size: 30px; 
+    border-color: #F9FAF8; 
+    border-style: solid;
 }  
 
 footer {
