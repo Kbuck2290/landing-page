@@ -111,7 +111,9 @@ font-size: 24px;
     display: flex; 
     justify-content: space-between; 
     align-items: center; 
-    background-color: #1F2937;
+    background-color: #3882F6;
+    border-radius: 12px; 
+    margin: 120px;
 } 
 
 .cta-text h2 {
@@ -126,7 +128,7 @@ font-size: 24px;
 } 
 
 .cta button {
-    background-color: #3882F6;
+    background-color: #3882F6; 
 }  
 
 footer {
