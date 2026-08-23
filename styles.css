@@ -38,7 +38,11 @@ font-size: 24px;
     background-color: #1F2937; 
     justify-content: space-between; 
     align-items: center;
-} 
+}  
+
+.hero-text {
+    width: 500px;
+}
 
 .hero-text h2 { 
     font-size: 48px; 
